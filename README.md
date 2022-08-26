@@ -6,3 +6,6 @@ Customer can create, update or delete order.
 Only the Manager and employee can log in.
 The employee can view the orders the customer puts in.
 The manager can view the orders and create and remove products listed.
+
+
+<img width="1225" alt="homepage" src="https://user-images.githubusercontent.com/96901524/186998927-b15c3773-247b-4e47-add0-0930def7d32b.png">
