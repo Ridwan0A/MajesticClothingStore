@@ -1,6 +1,6 @@
 # MajesticClothingStore
 
-In this capstone I will show you how I created a clothing store website.
+In this project I will show you how I created a clothing store website.
 Shopping function is for user and doesn't require to be logged in.
 Customer can create, update or delete order.
 Only the Manager and employee can log in.
@@ -10,7 +10,6 @@ The manager can view the orders and create and remove products listed.
 # EER DIAGRAM
 
 <img width="646" alt="Clothing-store" src="https://user-images.githubusercontent.com/96901524/186999028-938b1d53-5f8f-44bf-8692-ffc3fad0c571.png">
-
 
 # Home page
 
@@ -22,16 +21,13 @@ The manager can view the orders and create and remove products listed.
 
 # LIST OF ALL THE PRODUCTS
 
-
 <img width="1224" alt="ProductList" src="https://user-images.githubusercontent.com/96901524/186999132-1ad116d6-f374-43d4-a0f3-a02460c9c6a4.png">
 
 # SHOPPING CART BAG
 
-
 <img width="1237" alt="ur-bag" src="https://user-images.githubusercontent.com/96901524/186999188-2ea79ebf-7d52-4c58-8168-4e5a67a4cebb.png">
 
 # SHOPPING CART WHEN IT'S EMPTY
-
 
 <img width="1213" alt="removed" src="https://user-images.githubusercontent.com/96901524/186999229-39dcd50b-b7e1-41f0-9f87-5aa84d9c28e6.png">
 
@@ -45,12 +41,8 @@ The manager can view the orders and create and remove products listed.
 
 # MANAGERS LOG IN PAGE
 
-
-
 <img width="1231" alt="manager" src="https://user-images.githubusercontent.com/96901524/186999392-e2183608-8500-4ed5-ba5b-417b9e01584f.png">
 
 # CREATING A PRODUCT FROM THE MANAGERS LOG IN
 
 <img width="1193" alt="manager1" src="https://user-images.githubusercontent.com/96901524/186999433-885ebfe0-d4a2-4583-bb6d-509a66625c59.png">
-
-
